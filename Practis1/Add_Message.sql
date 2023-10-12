@@ -1,0 +1,1 @@
+INSERT INTO `messages`(`Subject`, `Text`) VALUES ('Hi','Hello This is a test message')
